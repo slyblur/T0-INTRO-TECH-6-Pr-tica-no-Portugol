@@ -1,1 +1,1 @@
-# T0-INTRO-TECH-6-Pr-tica-no-Portugol
+Exercício Vetores Generation.
